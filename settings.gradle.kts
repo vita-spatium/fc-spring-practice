@@ -1,2 +1,2 @@
-rootProject.name = "fc-java-oop"
+rootProject.name = "fc-spring-practice"
 
